@@ -1,5 +1,6 @@
 code will follow;
 
+
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("lütfen parola giriniz: ");
 		String password = scanner.nextLine();
